@@ -24,7 +24,20 @@ Your goal is simple: survive as long as possible by dodging an endless stream of
 
 ## 📸 Screenshots
 
-*(Add your screenshots here)*
+### 🎮 Gameplay
+
+<p align="center">
+  <img src="Screenshots/Gameplay1.png" width="220"/>
+  <img src="Screenshots/Gameplay2.png" width="220"/>
+  <img src="Screenshots/Gameplay3.png" width="220"/>
+</p>
+
+### 📋 Menu & Instructions
+
+<p align="center">
+  <img src="Screenshots/Menu.png" width="220"/>
+  <img src="Screenshots/InstructionsMenu.jpg" width="220"/>
+</p>
 
 ---
 
